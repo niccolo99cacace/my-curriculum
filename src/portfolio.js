@@ -2,7 +2,7 @@ import aboutpic from "./components/Access/mePhoto.jpg"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://morganbb104.github.io/HW_20_Portfolio_withReact/',
+  homepage: 'https://github.com/niccolo99cacace/my-curriculum',
   title: 'NC.',
 }
 
@@ -12,7 +12,7 @@ const about = {
   name: "NICCOLO' CACACE",
   role: 'Software engineer',
   description:
-    'UW and SMU bootcamp student living in Seattle,Washington. highly interested in cutting edge technology, web development and Java back end development.',
+    'I live in Castellammare di Stabia and I have a degree in Computer Science at the University of Salerno. interested about applications and web applications developing and about the programming languages Java and JavaScript',
 
   social: {
     linkedin: 'https://www.linkedin.com/in/niccol%C3%B2-cacace-7a2553248/',
