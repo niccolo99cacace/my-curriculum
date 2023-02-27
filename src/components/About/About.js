@@ -8,7 +8,7 @@ const About = () => {
   const {photo,name, role, description, resume, social } = about
 
   const handleDownload = () => {
-    window.open('/path/to/your/pdf', '_blank');
+    window.open('/CV.pdf', '_blank');
   };
 
   return (
@@ -27,11 +27,11 @@ const About = () => {
 
       <div className='about__contact center'>
          
-          <a href='file:///C:\Users\Administrator\Documents\NicProjects\NiccoloPortfolio\HW_20_Portfolio_withReact\public\myCV.pdf'>
-            <span type='button' className='btn btn--outline'>
+          
+            <span type='button' className='btn btn--outline' onClick={handleDownload}>
               Resume
             </span>
-          </a>
+          
 
         {social && ( 
           <>

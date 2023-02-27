@@ -2,7 +2,7 @@ import aboutpic from "./components/Access/mePhoto.jpg"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://github.com/niccolo99cacace/my-curriculum',
+  homepage: 'https://niccolo99cacace.github.io/my-curriculum/',
   title: 'NC.',
 }
 
@@ -24,45 +24,36 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Movie Tracker',
+    name: 'Book Market',
     description:
-      'As users, we see a page that lets anyone look for the movies from the search bar by key words, and obtaining the actual or similar movies with their years, actors, rating, and description information by recommendation. In addition, they can search the nearby theaters from where they currently are located.',
-    stack: ['localstorage', 'Openweather API', 'Google Map API','Movie Database API'],
-    sourceCode: 'https://github.com/Mike-C-Sanders/Movie-Tracker',
-    livePreview: 'https://mike-c-sanders.github.io/Movie-Tracker/',
+      'BookMarket is a books e-commerce with which you can view and eventually buy books sorted by category. The project also has an authentication system and a section dedicated to the admin where you can manage the sale of books.',
+    stack: ['Java', 'MySQL', 'jQuery','HTML-CSS-JavaScript','AJAX'],  
+    sourceCode: 'https://github.com/niccolo99cacace/BookMarket',
   },
   {
-    name: 'Event Planner',
+    name: 'MediDossier',
     description:
-      'Event Planner was designed with the partier in mind, the one who wants to find fine dinning or a friend to have a good time. Event Planner is the easiest way for anyone to find an event to attend, create or host your own event or browse whats happening in your local area.',
-    stack: ['swiper.js', 'npm', 'jawsdb','handlebars','express','nodejs'],
-    sourceCode: 'https://github.com/Morganbb104/Event_Planner_project2',
+      'MediDossier is a dashboard for displaying health records. The main feature is the configurable grid with which the user can manage the layout by resizing , moving and hiding the various components. The dashboard is also composed of an authentication system, and then the user can save his personal configuration on his personal account.',
+    stack: ['Node.js', 'Express.js', 'MongoDB','React.js','Material-UI'],
+    sourceCode: 'https://github.com/niccolo99cacace/Medi_Dossier',
     livePreview: 'https://obscure-chamber-98928.herokuapp.com/',
   },
   {
-    name: 'Resource Planner',
+    name: 'Guarda TV',
     description:
-      'Resource Planner is able to distrute the current resource including human resource,time and budget in one company in order to help user to manahe their projects',
-    stack: ['html-css-javascript', 'sequelize', 'React'],
-    sourceCode: 'https://github.com/stone-com/Resource-Planner',
-    livePreview: 'https://resource-planner-group2.herokuapp.com/',
+      'GuardaTv is a cinema library service,which includes an internal rating system useful to the customer for the purpose of discovering new contents. Then , the program  allows the management of personal lists of digital contents. All this, including an authentication system and a section for admin to manage the entire platform.',
+    stack: ['HTML-CSS-JavaScript', 'Java', 'Selenium'],
+    sourceCode: 'https://github.com/niccolo99cacace/GuardaTv',
   },
   {
-    name: 'GameStoreData(back end)',
+    name: 'Nico Tech',
     description:
-      'GameStoreData is able to let user retrieve the game from database based on its year and category',
-    stack: ['Java 8', 'MySQL', 'React'],
-    sourceCode: 'https://github.com/stone-com/Resource-Planner',
+      'Work in progress......',
+    stack: ['Node.js', 'Express.js', 'MongoDB','React.js', 'Material-UI'],
+    sourceCode: 'https://niccolo99cacace.github.io/my-curriculum/',
     
   },
-  {
-    name: 'Music Store(back end)',
-    description:
-      'MusicStore is able to direct user to the desired page based on its endpoints by track, album,artist and label',
-    stack: ['html-css-javascript', 'sequelize', 'React'],
-    sourceCode: 'https://github.com/Morganbb104/M7-project2-musictore-recommendations-Huang_Chengchien',
-    livePreview: 'https://cheng32-musicstore-catalog.herokuapp.com/track',
-  },
+
 ]
 
 const skills = [
