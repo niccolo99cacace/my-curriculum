@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/my-curriculum/static/media/mePhoto.d35beecd.jpg"
   },
   {
-    "revision": "1300883e34b7b1109715569239b6c4ca",
+    "revision": "6878be966376f0e99029108da7f3179d",
     "url": "/my-curriculum/index.html"
   }
 ];
