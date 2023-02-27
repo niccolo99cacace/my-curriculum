@@ -8,7 +8,7 @@ const About = () => {
   const {photo,name, role, description, resume, social } = about
 
   const handleDownload = () => {
-    window.open('/CV.pdf', '_blank');
+    window.open('CV.pdf', '_blank');
   };
 
   return (
