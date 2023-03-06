@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b20263becea845b97596",
+    "revision": "842ca0bc54423f9021df",
     "url": "/my-curriculum/static/css/main.f3fc6a6c.chunk.css"
   },
   {
-    "revision": "b20263becea845b97596",
-    "url": "/my-curriculum/static/js/main.b20263be.chunk.js"
+    "revision": "842ca0bc54423f9021df",
+    "url": "/my-curriculum/static/js/main.842ca0bc.chunk.js"
   },
   {
     "revision": "a3b2ba0488cccbdfdef3",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/my-curriculum/static/media/mePhoto.d35beecd.jpg"
   },
   {
-    "revision": "6878be966376f0e99029108da7f3179d",
+    "revision": "7095498b180d46c98841776f55a78af9",
     "url": "/my-curriculum/index.html"
   }
 ];
