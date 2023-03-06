@@ -46,11 +46,11 @@ const projects = [
     sourceCode: 'https://github.com/niccolo99cacace/GuardaTv',
   },
   {
-    name: 'Nico Tech',
+    name: 'NicoTech',
     description:
-      'Work in progress......',
+      'NicoTech is an e-commerce technology products developed using MERN technologies. It consists of a user interface equipped with asynchronous search engine, filters and the management of a shopping cart. It also has an authentication system using encrypted tokens and an admin-friendly interface for e-commerce manipulation (WORK IN PROGRESS ...)',
     stack: ['Node.js', 'Express.js', 'MongoDB','React.js', 'Material-UI'],
-    sourceCode: 'https://niccolo99cacace.github.io/my-curriculum/',
+    sourceCode: 'https://github.com/niccolo99cacace/NicoTech',
     
   },
 
