@@ -60,7 +60,7 @@ const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
   'JavaScript',
-  'Java,
+  'Java',
   'Python'
   'Node.js',
   'Express.js',
