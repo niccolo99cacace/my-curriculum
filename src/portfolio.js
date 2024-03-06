@@ -10,9 +10,9 @@ const about = {
   photo:aboutpic,
   // all the properties are optional - can be left empty or deleted
   name: "NICCOLO' CACACE",
-  role: 'Software engineer',
+  role: 'Developer',
   description:
-    'I live in Castellammare di Stabia and I have a degree in Computer Science at the University of Salerno. interested about applications and web applications developing and about the programming languages Java and JavaScript',
+    'Based in Castellammare di Stabia, I hold a degree in Computer Science from the University of Salerno. I am passionate about developing web and software applications, with a particular fondness for the programming languages Java and JavaScript. My keen interest lies in emerging technologies, especially artificial intelligence, a field that I find incredibly inspiring because of its revolutionary impact.I am curious and always in search of new challenges that allow me to stay at the forefront of technological innovation, convinced that continuing to learn and adapt is crucial for actively contributing to the future of computing.',
 
   social: {
     linkedin: 'https://www.linkedin.com/in/niccol%C3%B2-cacace-7a2553248/',
@@ -59,20 +59,24 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'JavaScript',
+  'Java,
+  'Python'
+  'Node.js',
+  'Express.js',
+  'React',
+  'SQL',
   'HTML',
   'CSS',
-  'JavaScript',
-  'Express',
-  'MySQL',
   'MongoDB',
-  'React',
   'Material UI',
   'Bootstrap',
   'Git',
   'MERN',
+  'Selenium',
   'C',
-  'Java',
-  'Java Spring Boot',
+  'Spring Boot',
+  
 ]
 
 const contact = {
